@@ -284,6 +284,24 @@
     height: 80px;
 }
 
+
+.welcome-section-letters h2 {
+    margin-top: 90px;
+    margin-bottom: 20px;
+    position: relative;
+    font-size: 30px;
+    /*z-index: 1;*/
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+    font-weight: 900;
+    color: #E7717D;
+    font-size: 35px;
+    height: 80px;
+}
+
+
+
 #devicons{
   display: flex;
     flex-wrap: wrap;
