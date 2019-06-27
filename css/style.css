@@ -231,6 +231,7 @@
   height: 120px;
   width: 100px;
   padding-left: 100px;
+  padding-bottom: 20px;
 }
 
 #logo_pets{
@@ -238,6 +239,7 @@
   width: 100px;
   padding-left: 95px;
   padding-bottom: 40px;
+  padding-top: 20px;
 
 }
 
@@ -246,6 +248,7 @@
   width: 150px;
   padding-left: 90px;
   padding-bottom: 0px;
+  padding-top: 20px;
 
 }
 
